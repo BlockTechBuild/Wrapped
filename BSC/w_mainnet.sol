@@ -225,7 +225,7 @@ contract PausableToken is StandardToken, Pausable {
   
 }
 
-contract WrappedCheetahcoin is PausableToken {
+contract Wrapped_coinname is PausableToken {
     string public name;
     string public symbol;
     uint public decimals;
